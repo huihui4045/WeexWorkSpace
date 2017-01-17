@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/HelloWeex.iml" filepath="$PROJECT_DIR$/HelloWeex.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/sdk/sdk.iml" filepath="$PROJECT_DIR$/sdk/sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weex_debug/weex_debug.iml" filepath="$PROJECT_DIR$/weex_debug/weex_debug.iml" />
     </modules>
   </component>
 </project>
